@@ -1,0 +1,14 @@
+{
+ "title": "ورود اعضا",
+ "description": "ورود اعضا",
+ "intro": "",
+ "blocks": [
+  {
+   "type": "notice",
+   "html": "<p>این صفحه در مرحلهٔ ۳ تکمیل می‌شود. می‌توانید متن آن را از پنل مدیریت بنویسید.</p>"
+  }
+ ],
+ "slug": "members",
+ "status": "published",
+ "template": "page"
+}

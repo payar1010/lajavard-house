@@ -1,0 +1,14 @@
+{
+ "title": "رویدادها و هم‌اندیشی‌ها",
+ "description": "رویدادها و هم‌اندیشی‌ها",
+ "intro": "",
+ "blocks": [
+  {
+   "type": "notice",
+   "html": "<p style=\"margin:0\">این صفحه در مرحلهٔ ۲ از ساخت سایت تکمیل می‌شود.</p>"
+  }
+ ],
+ "slug": "events",
+ "status": "published",
+ "template": "events"
+}

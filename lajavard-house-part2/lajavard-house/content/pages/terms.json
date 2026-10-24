@@ -1,0 +1,14 @@
+{
+ "title": "شرایط استفاده",
+ "description": "شرایط استفاده",
+ "intro": "",
+ "blocks": [
+  {
+   "type": "notice",
+   "html": "<p>این صفحه در مرحلهٔ ۳ تکمیل می‌شود. می‌توانید متن آن را از پنل مدیریت بنویسید.</p>"
+  }
+ ],
+ "slug": "terms",
+ "status": "published",
+ "template": "page"
+}
