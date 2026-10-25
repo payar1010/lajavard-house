@@ -1,0 +1,14 @@
+{
+ "title": "تماس",
+ "description": "تماس",
+ "intro": "",
+ "blocks": [
+  {
+   "type": "notice",
+   "html": "<p>این صفحه در مرحلهٔ ۳ تکمیل می‌شود. می‌توانید متن آن را از پنل مدیریت بنویسید.</p>"
+  }
+ ],
+ "slug": "contact",
+ "status": "published",
+ "template": "page"
+}

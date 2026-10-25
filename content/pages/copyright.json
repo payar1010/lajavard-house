@@ -1,0 +1,14 @@
+{
+ "title": "حقوق نشر",
+ "description": "حقوق نشر",
+ "intro": "",
+ "blocks": [
+  {
+   "type": "notice",
+   "html": "<p>این صفحه در مرحلهٔ ۳ تکمیل می‌شود. می‌توانید متن آن را از پنل مدیریت بنویسید.</p>"
+  }
+ ],
+ "slug": "copyright",
+ "status": "published",
+ "template": "page"
+}
